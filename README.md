@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @BondarenkoAleksandr
+- 👀 I’m interested in ...
+1C/SQL/Bitrix 24
+- 🌱 I’m currently learning ...
+Skillbox
+- 💞️ I’m looking to collaborate on ...
+1c
+- 📫 How to reach me ...
+https://vk.com/benbro
+<!---
+BondarenkoAleksandr/BondarenkoAleksandr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
